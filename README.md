@@ -6,31 +6,19 @@ Welcome to my profile! I’m a **Fullstack Developer** passionate about Python a
 
 ## 🚀 Skills  
 
-### **🐍 Python**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![NLP](https://img.shields.io/badge/NLP-Python-3776AB?style=for-the-badge)  
-
-### **🗄️ Database**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **💻 JavaScript**  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-
-### **⚙️ DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+| **Python**  | **JavaScript**  | **DevOps**  | **Database**  | **Soft Skills**  |
+|-------------|-----------------|-------------|---------------|------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  | ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  | ✅ Strong communication skills  |
+| ![NLP](https://img.shields.io/badge/NLP-Python-3776AB?style=for-the-badge)  | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  |  | ✅ Problem-solving mindset  |
+|  | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  |  | ✅ Team collaboration  |
+|  | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  |  | ✅ Time management  |
+|  |  | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  |  | ✅ Adaptability and continuous learning  |
+|  |  | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  |  | ✅ Agile methodologies (Scrum, Kanban)  | 
 
 ### **🎯 Soft Skills**  
 ✅ Strong communication skills  ✅ Problem-solving mindset  
 ✅ Team collaboration  ✅ Time management  
-✅ Adaptability and continuous learning  ✅ Agile methodologies (Scrum, Kanban)  
+✅ Adaptability and continuous learning  ✅ Agile methodologies (Scrum, Kanban)  ](url)](url)
 
 ## 📌 About Me  
 
