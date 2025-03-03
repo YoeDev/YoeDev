@@ -1,7 +1,9 @@
 # Hi, I’m @YoeDev 👋  
 
 
-![Profile Picture](https://github.com/yoedev.png)
+<p align="left">
+  <img src="https://github.com/yoedev.png" width="50" height="50" style="border-radius: 50%;" />
+</p>
 
 Welcome to my profile! I’m a **Fullstack Developer** passionate about **Python and JavaScript**. I thrive on new challenges and enjoy exchanging experiences while keeping up with the latest tech trends.
 
@@ -35,12 +37,12 @@ Welcome to my profile! I’m a **Fullstack Developer** passionate about **Python
 ## 🔨 Projects  
 
 ### **SysArchive**  
-A system for detecting files in file servers that are not in PDF format and exceed the size limit. The system automatically sends an email to users who violate the established rules. It also sends a quarterly inventory of user files to the auditor and alerts them when the file server is running out of space.  
-**Technologies**: Bash, Python with Pandas  
+A tool that keeps file servers clean and organized. It automatically detects non-PDF files that exceed the allowed size and emails users to notify them. It also sends quarterly inventory reports to auditors and alerts them when the server is running low on space.  
+**Tech stack**: Bash, Python (Pandas)  
 
 ### **SendReportCheap**  
-An automated system that sends the status of products in an online bicycle shop (bikes, parts, and accessories).  
-**Technologies**: Pug Templates, React  
+An automated system that updates customers about their orders in an online bike shop. It sends real-time product status reports for bicycles, parts, and accessories.  
+**Tech stack**: Pug Templates, React  
 
 ---
 
